@@ -36,7 +36,7 @@ Some of the questions I tried to answer:
 
 ## Dashboard
 
-![Dashboard](images/dashboard_screenshot.png)
+![retail-sales-analysis](dashboard_screenshot.png)
 
 The dashboard includes:
 
